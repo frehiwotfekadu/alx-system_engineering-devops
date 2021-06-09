@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r /tmp/holberon/betty
+rm -rf /tmp/holberon/betty
